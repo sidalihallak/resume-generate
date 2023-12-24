@@ -5,9 +5,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@fanyinghao/docxtemplater-image-module": "^3.1.1",
     "@netlify/functions": "^2.4.1",
     "@types/express": "^4.17.21",
+    "angular-expressions": "^1.1.9",
+    "color-js": "^1.0.5",
+    "css": "^3.0.0",
+    "css-what": "^6.1.0",
+    "docxtemplater": "^3.42.7",
     "express": "^4.18.2",
+    "he": "^1.2.0",
+    "htmlparser2": "^9.0.0",
+    "image-size": "^1.0.2",
+    "java": "^0.14.0",
+    "pizzip": "^3.1.4",
     "serverless-http": "^3.2.0"
   }
 }
